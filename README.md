@@ -1,2 +1,3 @@
 # Myfrist
-sebuah project pertama sebagai gerbang nuansa kehidupan bersama Siti Aepullah
+sebuah project pertama sebagai gerbang nuansa kehidupan bersamanya
+
